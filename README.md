@@ -4,8 +4,8 @@ Deux petits utilitaires AppleScript qui permettent d'actualiser un dossier-repos
 
 ## Utilisation
 
-* préparer le dossier du projet comme un projet git normal (*),
-* faire un premier dépôt normalement (*),
+* préparer le dossier du projet comme un projet git normal (\*),
+* faire un premier dépôt normalement (\*),
 * glisser le dossier sur l'utilitaire `Git Push Folder`,
 * définir le message du dépôt et confirmer.
 
@@ -14,7 +14,7 @@ Pour actualiser le dépôt local (pull) :
 * glisser le dossier sur l'utilitaire `Git Pull Folder`.
 * that's it!
 
-> (\*) par exemple avec [Github Desktop](https://desktop.github.com) <!--  /*  --->
+> (\*) par exemple avec [Github Desktop](https://desktop.github.com).
 
 
 ---------------------------------------------------------------------
