@@ -14,7 +14,7 @@ Pour actualiser le dépôt local (pull) :
 * glisser le dossier sur l'utilitaire `Git Pull Folder`.
 * that's it!
 
-> (*) par exemple avec [Github Desktop](https://desktop.github.com) <!--  /*  --->
+> (\*) par exemple avec [Github Desktop](https://desktop.github.com) <!--  /*  --->
 
 
 ---------------------------------------------------------------------
@@ -37,4 +37,4 @@ To update a local repository:
 * that's it!
 
 
-> (*) for example with [Github Desktop](https://desktop.github.com)
+> (\*) for instance with [Github Desktop](https://desktop.github.com)
